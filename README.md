@@ -1,4 +1,4 @@
-## Hey 👋, This is Kris!👩‍💻
+## Hello there 👋, I'm Kris!👩‍💻
 [![Gmail Badge](https://img.shields.io/badge/-kristmitina@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kristmitina@gmail.com)](mailto:kristmitina@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-kmitina-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmitina/)](https://www.linkedin.com/in/kmitina/) [![Github Badge](https://img.shields.io/badge/-kmitina-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kmitina/)](https://www.github.com/kmitina/) <p align='left'>🤓 I'm IOS-developer <br />
 🇧🇾 Originally from Belarus <br />
